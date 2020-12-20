@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{6EADF837-27F0-4ED8-8553-91743FE7CDB3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Models/SeedData.cs">
+    <Files>
+      <File FileName="SportsStore/Startup.cs" Line="62" Column="21" />
+      <File FileName="SportsStore/Views/_ViewImports.cshtml" Line="7" Column="2" />
+      <File FileName="SportsStore/Views/Shared/_Layout.cshtml" Line="14" Column="1" />
+      <File FileName="SportsStore/Controllers/HomeController.cs" Line="19" Column="2" />
+      <File FileName="SportsStore/Views/Home/Index.cshtml" Line="9" Column="11" />
+      <File FileName="SportsStore/Models/Product.cs" Line="15" Column="2" />
+      <File FileName="SportsStore/appsettings.json" Line="9" Column="23" />
+      <File FileName="SportsStore/Models/StoreDbContext.cs" Line="14" Column="2" />
+      <File FileName="SportsStore/Models/IStoreRepositiry.cs" Line="11" Column="1" />
+      <File FileName="SportsStore/Models/EFStoreRepository.cs" Line="14" Column="65" />
+      <File FileName="SportsStore/Models/SeedData.cs" Line="17" Column="1" />
+      <File FileName="SportsStore.Tests/HomeControllerTests.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SportsSln" expanded="True">
+            <Node name="SportsStore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="SeedData.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="SportsStore.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="SportsSln" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SportsStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
